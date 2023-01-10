@@ -1,0 +1,11 @@
+.clock2 {
+  display: inline-block;
+  width: 200px;
+  border: solid 2px black;
+  border-radius: 5px;
+  color: red;
+
+  &-time {
+    font-size: 32px;
+  }
+}
